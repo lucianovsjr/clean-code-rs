@@ -1,0 +1,30 @@
+clean-code
+- legibilidade
+- fácil manutenção
+
+Código limpo surge apartir de códigos sujos
+Autocritica de anos
+
+clean code não tem nada a ver com:
+- estrutura de pastas
+- código menor
+- arquitetura
+- ddd
+- performance
+
+testes automatizados, 
+sem testes é dificil manter a previsibilidade e a confiança.
+Revisão
+Refatorar
+simplicidade
+
+kiss
+keep it simple stupid
+Traga complexidade somente se for benefica.
+Solução para problemas que não existem.
+Implementar uma tecnologia que só você conhece.
+iterações curtas
+	Alterações pequenas. Pequenas adições no código.
+	Fácil para testar e revisar
+
+
